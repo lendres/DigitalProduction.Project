@@ -1,7 +1,7 @@
-﻿using DigitalProduction.ComponentModel;
+﻿using DigitalProduction.Reflection;
+using DigitalProduction.Xml.Serialization;
 using System.ComponentModel;
 using System.Xml.Serialization;
-using DigitalProduction.Xml.Serialization;
 
 namespace DigitalProduction.UnitTests;
 
